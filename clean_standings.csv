@@ -1,0 +1,688 @@
+,team,year,overall wins,overall losses,home wins,home losses,road wins,road losses
+0,Sacramento Kings,2001,61,21,36,5,25,16
+1,Los Angeles Lakers,2001,58,24,34,7,24,17
+2,San Antonio Spurs,2001,58,24,32,9,26,15
+3,Dallas Mavericks,2001,57,25,30,11,27,14
+4,New Jersey Nets,2001,52,30,33,8,19,22
+5,Detroit Pistons,2001,50,32,26,15,24,17
+6,Minnesota Timberwolves,2001,50,32,29,12,21,20
+7,Boston Celtics,2001,49,33,27,14,22,19
+8,Portland Trail Blazers,2001,49,33,30,11,19,22
+9,Seattle SuperSonics,2001,45,37,26,15,19,22
+10,Charlotte Hornets,2001,44,38,21,20,23,18
+11,Orlando Magic,2001,44,38,27,14,17,24
+12,Utah Jazz,2001,44,38,25,16,19,22
+13,Philadelphia 76ers,2001,43,39,22,19,21,20
+14,Indiana Pacers,2001,42,40,25,16,17,24
+15,Toronto Raptors,2001,42,40,24,17,18,23
+16,Milwaukee Bucks,2001,41,41,25,16,16,25
+17,Los Angeles Clippers,2001,39,43,25,16,14,27
+18,Washington Wizards,2001,37,45,22,19,15,26
+19,Miami Heat,2001,36,46,18,23,18,23
+20,Phoenix Suns,2001,36,46,23,18,13,28
+21,Atlanta Hawks,2001,33,49,23,18,10,31
+22,New York Knicks,2001,30,52,19,22,11,30
+23,Cleveland Cavaliers,2001,29,53,20,21,9,32
+24,Houston Rockets,2001,28,54,18,23,10,31
+25,Denver Nuggets,2001,27,55,20,21,7,34
+26,Memphis Grizzlies,2001,23,59,15,26,8,33
+27,Chicago Bulls,2001,21,61,14,27,7,34
+28,Golden State Warriors,2001,21,61,14,27,7,34
+29,Dallas Mavericks,2002,60,22,33,8,27,14
+30,San Antonio Spurs,2002,60,22,33,8,27,14
+31,Sacramento Kings,2002,59,23,35,6,24,17
+32,Minnesota Timberwolves,2002,51,31,33,8,18,23
+33,Detroit Pistons,2002,50,32,30,11,20,21
+34,Los Angeles Lakers,2002,50,32,31,10,19,22
+35,Portland Trail Blazers,2002,50,32,27,14,23,18
+36,New Jersey Nets,2002,49,33,33,8,16,25
+37,Indiana Pacers,2002,48,34,32,9,16,25
+38,Philadelphia 76ers,2002,48,34,25,16,23,18
+39,New Orleans Hornets,2002,47,35,29,12,18,23
+40,Utah Jazz,2002,47,35,29,12,18,23
+41,Boston Celtics,2002,44,38,25,16,19,22
+42,Phoenix Suns,2002,44,38,30,11,14,27
+43,Houston Rockets,2002,43,39,28,13,15,26
+44,Milwaukee Bucks,2002,42,40,25,16,17,24
+45,Orlando Magic,2002,42,40,26,15,16,25
+46,Seattle SuperSonics,2002,40,42,25,16,15,26
+47,Golden State Warriors,2002,38,44,24,17,14,27
+48,New York Knicks,2002,37,45,24,17,13,28
+49,Washington Wizards,2002,37,45,23,18,14,27
+50,Atlanta Hawks,2002,35,47,26,15,9,32
+51,Chicago Bulls,2002,30,52,27,14,3,38
+52,Memphis Grizzlies,2002,28,54,20,21,8,33
+53,Los Angeles Clippers,2002,27,55,16,25,11,30
+54,Miami Heat,2002,25,57,16,25,9,32
+55,Toronto Raptors,2002,24,58,15,26,9,32
+56,Cleveland Cavaliers,2002,17,65,14,27,3,38
+57,Denver Nuggets,2002,17,65,13,28,4,37
+58,Indiana Pacers,2003,61,21,34,7,27,14
+59,Minnesota Timberwolves,2003,58,24,31,10,27,14
+60,San Antonio Spurs,2003,57,25,33,8,24,17
+61,Los Angeles Lakers,2003,56,26,34,7,22,19
+62,Sacramento Kings,2003,55,27,34,7,21,20
+63,Detroit Pistons,2003,54,28,31,10,23,18
+64,Dallas Mavericks,2003,52,30,36,5,16,25
+65,Memphis Grizzlies,2003,50,32,31,10,19,22
+66,New Jersey Nets,2003,47,35,28,13,19,22
+67,Houston Rockets,2003,45,37,27,14,18,23
+68,Denver Nuggets,2003,43,39,29,12,14,27
+69,Miami Heat,2003,42,40,29,12,13,28
+70,Utah Jazz,2003,42,40,28,13,14,27
+71,Milwaukee Bucks,2003,41,41,27,14,14,27
+72,New Orleans Hornets,2003,41,41,25,16,16,25
+73,Portland Trail Blazers,2003,41,41,25,16,16,25
+74,New York Knicks,2003,39,43,23,18,16,25
+75,Golden State Warriors,2003,37,45,27,14,10,31
+76,Seattle SuperSonics,2003,37,45,21,20,16,25
+77,Boston Celtics,2003,36,46,19,22,17,24
+78,Cleveland Cavaliers,2003,35,47,23,18,12,29
+79,Philadelphia 76ers,2003,33,49,21,20,12,29
+80,Toronto Raptors,2003,33,49,18,23,15,26
+81,Phoenix Suns,2003,29,53,18,23,11,30
+82,Atlanta Hawks,2003,28,54,18,23,10,31
+83,Los Angeles Clippers,2003,28,54,18,23,10,31
+84,Washington Wizards,2003,25,57,17,24,8,33
+85,Chicago Bulls,2003,23,59,14,27,9,32
+86,Orlando Magic,2003,21,61,11,30,10,31
+87,Phoenix Suns,2004,62,20,31,10,31,10
+88,Miami Heat,2004,59,23,35,6,24,17
+89,San Antonio Spurs,2004,59,23,38,3,21,20
+90,Dallas Mavericks,2004,58,24,29,12,29,12
+91,Detroit Pistons,2004,54,28,32,9,22,19
+92,Seattle SuperSonics,2004,52,30,26,15,26,15
+93,Houston Rockets,2004,51,31,26,15,25,16
+94,Sacramento Kings,2004,50,32,30,11,20,21
+95,Denver Nuggets,2004,49,33,31,10,18,23
+96,Chicago Bulls,2004,47,35,27,14,20,21
+97,Boston Celtics,2004,45,37,27,14,18,23
+98,Memphis Grizzlies,2004,45,37,26,15,19,22
+99,Washington Wizards,2004,45,37,29,12,16,25
+100,Indiana Pacers,2004,44,38,25,16,19,22
+101,Minnesota Timberwolves,2004,44,38,24,17,20,21
+102,Philadelphia 76ers,2004,43,39,25,16,18,23
+103,New Jersey Nets,2004,42,40,24,17,18,23
+104,Cleveland Cavaliers,2004,42,40,29,12,13,28
+105,Los Angeles Clippers,2004,37,45,27,14,10,31
+106,Orlando Magic,2004,36,46,24,17,12,29
+107,Golden State Warriors,2004,34,48,20,21,14,27
+108,Los Angeles Lakers,2004,34,48,22,19,12,29
+109,New York Knicks,2004,33,49,22,19,11,30
+110,Toronto Raptors,2004,33,49,22,19,11,30
+111,Milwaukee Bucks,2004,30,52,23,18,7,34
+112,Portland Trail Blazers,2004,27,55,18,23,9,32
+113,Utah Jazz,2004,26,56,18,23,8,33
+114,Charlotte Bobcats,2004,18,64,14,27,4,37
+115,New Orleans Hornets,2004,18,64,11,30,7,34
+116,Atlanta Hawks,2004,13,69,9,32,4,37
+117,Detroit Pistons,2005,64,18,37,4,27,14
+118,San Antonio Spurs,2005,63,19,34,7,29,12
+119,Dallas Mavericks,2005,60,22,34,7,26,15
+120,Phoenix Suns,2005,54,28,31,10,23,18
+121,Miami Heat,2005,52,30,31,10,21,20
+122,Cleveland Cavaliers,2005,50,32,31,10,19,22
+123,Memphis Grizzlies,2005,49,33,30,11,19,22
+124,New Jersey Nets,2005,49,33,29,12,20,21
+125,Los Angeles Clippers,2005,47,35,27,14,20,21
+126,Los Angeles Lakers,2005,45,37,27,14,18,23
+127,Denver Nuggets,2005,44,38,26,15,18,23
+128,Sacramento Kings,2005,44,38,27,14,17,24
+129,Washington Wizards,2005,42,40,27,14,15,26
+130,Chicago Bulls,2005,41,41,21,20,20,21
+131,Indiana Pacers,2005,41,41,27,14,14,27
+132,Utah Jazz,2005,41,41,22,19,19,22
+133,Milwaukee Bucks,2005,40,42,25,16,15,26
+134,New Orleans/Oklahoma City Hornets,2005,38,44,24,17,14,27
+135,Philadelphia 76ers,2005,38,44,23,18,15,26
+136,Orlando Magic,2005,36,46,26,15,10,31
+137,Seattle SuperSonics,2005,35,47,22,19,13,28
+138,Golden State Warriors,2005,34,48,21,20,13,28
+139,Houston Rockets,2005,34,48,15,26,19,22
+140,Boston Celtics,2005,33,49,21,20,12,29
+141,Minnesota Timberwolves,2005,33,49,24,17,9,32
+142,Toronto Raptors,2005,27,55,15,26,12,29
+143,Atlanta Hawks,2005,26,56,18,23,8,33
+144,Charlotte Bobcats,2005,26,56,17,24,9,32
+145,New York Knicks,2005,23,59,15,26,8,33
+146,Portland Trail Blazers,2005,21,61,15,26,6,35
+147,Dallas Mavericks,2006,67,15,36,5,31,10
+148,Phoenix Suns,2006,61,21,33,8,28,13
+149,San Antonio Spurs,2006,58,24,31,10,27,14
+150,Detroit Pistons,2006,53,29,26,15,27,14
+151,Houston Rockets,2006,52,30,28,13,24,17
+152,Utah Jazz,2006,51,31,31,10,20,21
+153,Cleveland Cavaliers,2006,50,32,30,11,20,21
+154,Chicago Bulls,2006,49,33,31,10,18,23
+155,Toronto Raptors,2006,47,35,30,11,17,24
+156,Denver Nuggets,2006,45,37,23,18,22,19
+157,Miami Heat,2006,44,38,27,14,17,24
+158,Golden State Warriors,2006,42,40,30,11,12,29
+159,Los Angeles Lakers,2006,42,40,25,16,17,24
+160,New Jersey Nets,2006,41,41,24,17,17,24
+161,Washington Wizards,2006,41,41,26,15,15,26
+162,Orlando Magic,2006,40,42,25,16,15,26
+163,Los Angeles Clippers,2006,40,42,25,16,15,26
+164,New Orleans/Oklahoma City Hornets,2006,39,43,24,17,15,26
+165,Indiana Pacers,2006,35,47,22,19,13,28
+166,Philadelphia 76ers,2006,35,47,21,20,14,27
+167,Charlotte Bobcats,2006,33,49,20,21,13,28
+168,New York Knicks,2006,33,49,19,22,14,27
+169,Sacramento Kings,2006,33,49,20,21,13,28
+170,Minnesota Timberwolves,2006,32,50,20,21,12,29
+171,Portland Trail Blazers,2006,32,50,18,23,14,27
+172,Seattle SuperSonics,2006,31,51,20,21,11,30
+173,Atlanta Hawks,2006,30,52,18,23,12,29
+174,Milwaukee Bucks,2006,28,54,18,23,10,31
+175,Boston Celtics,2006,24,58,12,29,12,29
+176,Memphis Grizzlies,2006,22,60,14,27,8,33
+177,Boston Celtics,2007,66,16,35,6,31,10
+178,Detroit Pistons,2007,59,23,34,7,25,16
+179,Los Angeles Lakers,2007,57,25,30,11,27,14
+180,New Orleans Hornets,2007,56,26,30,11,26,15
+181,San Antonio Spurs,2007,56,26,34,7,22,19
+182,Houston Rockets,2007,55,27,31,10,24,17
+183,Phoenix Suns,2007,55,27,30,11,25,16
+184,Utah Jazz,2007,54,28,37,4,17,24
+185,Orlando Magic,2007,52,30,25,16,27,14
+186,Dallas Mavericks,2007,51,31,34,7,17,24
+187,Denver Nuggets,2007,50,32,33,8,17,24
+188,Golden State Warriors,2007,48,34,27,14,21,20
+189,Cleveland Cavaliers,2007,45,37,27,14,18,23
+190,Washington Wizards,2007,43,39,25,16,18,23
+191,Toronto Raptors,2007,41,41,25,16,16,25
+192,Portland Trail Blazers,2007,41,41,28,13,13,28
+193,Philadelphia 76ers,2007,40,42,22,19,18,23
+194,Sacramento Kings,2007,38,44,26,15,12,29
+195,Atlanta Hawks,2007,37,45,25,16,12,29
+196,Indiana Pacers,2007,36,46,21,20,15,26
+197,New Jersey Nets,2007,34,48,21,20,13,28
+198,Chicago Bulls,2007,33,49,20,21,13,28
+199,Charlotte Bobcats,2007,32,50,21,20,11,30
+200,Milwaukee Bucks,2007,26,56,19,22,7,34
+201,Los Angeles Clippers,2007,23,59,13,28,10,31
+202,New York Knicks,2007,23,59,15,26,8,33
+203,Memphis Grizzlies,2007,22,60,14,27,8,33
+204,Minnesota Timberwolves,2007,22,60,15,26,7,34
+205,Seattle SuperSonics,2007,20,62,13,28,7,34
+206,Miami Heat,2007,15,67,9,32,6,35
+207,Cleveland Cavaliers,2008,66,16,39,2,27,14
+208,Los Angeles Lakers,2008,65,17,36,5,29,12
+209,Boston Celtics,2008,62,20,35,6,27,14
+210,Orlando Magic,2008,59,23,32,9,27,14
+211,Denver Nuggets,2008,54,28,33,8,21,20
+212,Portland Trail Blazers,2008,54,28,34,7,20,21
+213,San Antonio Spurs,2008,54,28,28,13,26,15
+214,Houston Rockets,2008,53,29,33,8,20,21
+215,Dallas Mavericks,2008,50,32,32,9,18,23
+216,New Orleans Hornets,2008,49,33,28,13,21,20
+217,Utah Jazz,2008,48,34,33,8,15,26
+218,Atlanta Hawks,2008,47,35,31,10,16,25
+219,Phoenix Suns,2008,46,36,28,13,18,23
+220,Miami Heat,2008,43,39,28,13,15,26
+221,Chicago Bulls,2008,41,41,28,13,13,28
+222,Philadelphia 76ers,2008,41,41,24,17,17,24
+223,Detroit Pistons,2008,39,43,21,20,18,23
+224,Indiana Pacers,2008,36,46,25,16,11,30
+225,Charlotte Bobcats,2008,35,47,23,18,12,29
+226,Milwaukee Bucks,2008,34,48,22,19,12,29
+227,New Jersey Nets,2008,34,48,19,22,15,26
+228,Toronto Raptors,2008,33,49,18,23,15,26
+229,New York Knicks,2008,32,50,20,21,12,29
+230,Golden State Warriors,2008,29,53,21,20,8,33
+231,Memphis Grizzlies,2008,24,58,16,25,8,33
+232,Minnesota Timberwolves,2008,24,58,11,30,13,28
+233,Oklahoma City Thunder,2008,23,59,15,26,8,33
+234,Los Angeles Clippers,2008,19,63,11,30,8,33
+235,Washington Wizards,2008,19,63,13,28,6,35
+236,Sacramento Kings,2008,17,65,11,30,6,35
+237,Cleveland Cavaliers,2009,61,21,35,6,26,15
+238,Orlando Magic,2009,59,23,34,7,25,16
+239,Los Angeles Lakers,2009,57,25,34,7,23,18
+240,Dallas Mavericks,2009,55,27,28,13,27,14
+241,Phoenix Suns,2009,54,28,32,9,22,19
+242,Atlanta Hawks,2009,53,29,34,7,19,22
+243,Denver Nuggets,2009,53,29,34,7,19,22
+244,Utah Jazz,2009,53,29,32,9,21,20
+245,Boston Celtics,2009,50,32,24,17,26,15
+246,Oklahoma City Thunder,2009,50,32,27,14,23,18
+247,Portland Trail Blazers,2009,50,32,26,15,24,17
+248,San Antonio Spurs,2009,50,32,29,12,21,20
+249,Miami Heat,2009,47,35,24,17,23,18
+250,Milwaukee Bucks,2009,46,36,28,13,18,23
+251,Charlotte Bobcats,2009,44,38,31,10,13,28
+252,Houston Rockets,2009,42,40,23,18,19,22
+253,Chicago Bulls,2009,41,41,24,17,17,24
+254,Memphis Grizzlies,2009,40,42,23,18,17,24
+255,Toronto Raptors,2009,40,42,25,16,15,26
+256,New Orleans Hornets,2009,37,45,24,17,13,28
+257,Indiana Pacers,2009,32,50,23,18,9,32
+258,Los Angeles Clippers,2009,29,53,21,20,8,33
+259,New York Knicks,2009,29,53,18,23,11,30
+260,Detroit Pistons,2009,27,55,17,24,10,31
+261,Philadelphia 76ers,2009,27,55,12,29,15,26
+262,Golden State Warriors,2009,26,56,18,23,8,33
+263,Washington Wizards,2009,26,56,15,26,11,30
+264,Sacramento Kings,2009,25,57,18,23,7,34
+265,Minnesota Timberwolves,2009,15,67,10,31,5,36
+266,New Jersey Nets,2009,12,70,8,33,4,37
+267,Chicago Bulls,2010,62,20,36,5,26,15
+268,San Antonio Spurs,2010,61,21,36,5,25,16
+269,Miami Heat,2010,58,24,30,11,28,13
+270,Dallas Mavericks,2010,57,25,29,12,28,13
+271,Los Angeles Lakers,2010,57,25,30,11,27,14
+272,Boston Celtics,2010,56,26,33,8,23,18
+273,Oklahoma City Thunder,2010,55,27,30,11,25,16
+274,Orlando Magic,2010,52,30,29,12,23,18
+275,Denver Nuggets,2010,50,32,33,8,17,24
+276,Portland Trail Blazers,2010,48,34,30,11,18,23
+277,Memphis Grizzlies,2010,46,36,30,11,16,25
+278,New Orleans Hornets,2010,46,36,28,13,18,23
+279,Atlanta Hawks,2010,44,38,24,17,20,21
+280,Houston Rockets,2010,43,39,25,16,18,23
+281,New York Knicks,2010,42,40,23,18,19,22
+282,Philadelphia 76ers,2010,41,41,26,15,15,26
+283,Phoenix Suns,2010,40,42,23,18,17,24
+284,Utah Jazz,2010,39,43,21,20,18,23
+285,Indiana Pacers,2010,37,45,24,17,13,28
+286,Golden State Warriors,2010,36,46,26,15,10,31
+287,Milwaukee Bucks,2010,35,47,22,19,13,28
+288,Charlotte Bobcats,2010,34,48,21,20,13,28
+289,Los Angeles Clippers,2010,32,50,23,18,9,32
+290,Detroit Pistons,2010,30,52,21,20,9,32
+291,New Jersey Nets,2010,24,58,19,22,5,36
+292,Sacramento Kings,2010,24,58,11,30,13,28
+293,Washington Wizards,2010,23,59,20,21,3,38
+294,Toronto Raptors,2010,22,60,16,25,6,35
+295,Cleveland Cavaliers,2010,19,63,12,29,7,34
+296,Minnesota Timberwolves,2010,17,65,12,29,5,36
+297,Chicago Bulls,2011,50,16,26,7,24,9
+298,San Antonio Spurs,2011,50,16,28,5,22,11
+299,Oklahoma City Thunder,2011,47,19,26,7,21,12
+300,Miami Heat,2011,46,20,28,5,18,15
+301,Indiana Pacers,2011,42,24,23,10,19,14
+302,Los Angeles Lakers,2011,41,25,26,7,15,18
+303,Memphis Grizzlies,2011,41,25,26,7,15,18
+304,Atlanta Hawks,2011,40,26,23,10,17,16
+305,Los Angeles Clippers,2011,40,26,24,9,16,17
+306,Boston Celtics,2011,39,27,24,9,15,18
+307,Denver Nuggets,2011,38,28,20,13,18,15
+308,Orlando Magic,2011,37,29,21,12,16,17
+309,Dallas Mavericks,2011,36,30,23,10,13,20
+310,New York Knicks,2011,36,30,22,11,14,19
+311,Utah Jazz,2011,36,30,25,8,11,22
+312,Philadelphia 76ers,2011,35,31,19,14,16,17
+313,Houston Rockets,2011,34,32,22,11,12,21
+314,Phoenix Suns,2011,33,33,19,14,14,19
+315,Milwaukee Bucks,2011,31,35,17,16,14,19
+316,Portland Trail Blazers,2011,28,38,20,13,8,25
+317,Minnesota Timberwolves,2011,26,40,13,20,13,20
+318,Detroit Pistons,2011,25,41,18,15,7,26
+319,Golden State Warriors,2011,23,43,12,21,11,22
+320,Toronto Raptors,2011,23,43,13,20,10,23
+321,New Jersey Nets,2011,22,44,9,24,13,20
+322,Sacramento Kings,2011,22,44,16,17,6,27
+323,Cleveland Cavaliers,2011,21,45,11,22,10,23
+324,New Orleans Hornets,2011,21,45,11,22,10,23
+325,Washington Wizards,2011,20,46,11,22,9,24
+326,Charlotte Bobcats,2011,7,59,4,29,3,30
+327,Miami Heat,2012,66,16,37,4,29,12
+328,Oklahoma City Thunder,2012,60,22,34,7,26,15
+329,San Antonio Spurs,2012,58,24,35,6,23,18
+330,Denver Nuggets,2012,57,25,38,3,19,22
+331,Los Angeles Clippers,2012,56,26,32,9,24,17
+332,Memphis Grizzlies,2012,56,26,32,9,24,17
+333,New York Knicks,2012,54,28,31,10,23,18
+334,Brooklyn Nets,2012,49,33,26,15,23,18
+335,Indiana Pacers,2012,49,32,30,11,19,21
+336,Golden State Warriors,2012,47,35,28,13,19,22
+337,Chicago Bulls,2012,45,37,24,17,21,20
+338,Houston Rockets,2012,45,37,29,12,16,25
+339,Los Angeles Lakers,2012,45,37,29,12,16,25
+340,Atlanta Hawks,2012,44,38,25,16,19,22
+341,Utah Jazz,2012,43,39,30,11,13,28
+342,Boston Celtics,2012,41,40,27,13,14,27
+343,Dallas Mavericks,2012,41,41,24,17,17,24
+344,Milwaukee Bucks,2012,38,44,21,20,17,24
+345,Philadelphia 76ers,2012,34,48,23,18,11,30
+346,Toronto Raptors,2012,34,48,21,20,13,28
+347,Portland Trail Blazers,2012,33,49,22,19,11,30
+348,Minnesota Timberwolves,2012,31,51,20,21,11,30
+349,Detroit Pistons,2012,29,53,18,23,11,30
+350,Washington Wizards,2012,29,53,22,19,7,34
+351,Sacramento Kings,2012,28,54,20,21,8,33
+352,New Orleans Hornets,2012,27,55,16,25,11,30
+353,Phoenix Suns,2012,25,57,17,24,8,33
+354,Cleveland Cavaliers,2012,24,58,14,27,10,31
+355,Charlotte Bobcats,2012,21,61,15,26,6,35
+356,Orlando Magic,2012,20,62,12,29,8,33
+357,San Antonio Spurs,2013,62,20,32,9,30,11
+358,Oklahoma City Thunder,2013,59,23,34,7,25,16
+359,Los Angeles Clippers,2013,57,25,34,7,23,18
+360,Indiana Pacers,2013,56,26,35,6,21,20
+361,Houston Rockets,2013,54,28,33,8,21,20
+362,Miami Heat,2013,54,28,32,9,22,19
+363,Portland Trail Blazers,2013,54,28,31,10,23,18
+364,Golden State Warriors,2013,51,31,27,14,24,17
+365,Memphis Grizzlies,2013,50,32,27,14,23,18
+366,Dallas Mavericks,2013,49,33,26,15,23,18
+367,Chicago Bulls,2013,48,34,27,14,21,20
+368,Toronto Raptors,2013,48,34,26,15,22,19
+369,Phoenix Suns,2013,48,34,26,15,22,19
+370,Brooklyn Nets,2013,44,38,28,13,16,25
+371,Washington Wizards,2013,44,38,22,19,22,19
+372,Charlotte Bobcats,2013,43,39,25,16,18,23
+373,Minnesota Timberwolves,2013,40,42,24,17,16,25
+374,Atlanta Hawks,2013,38,44,24,17,14,27
+375,New York Knicks,2013,37,45,19,22,18,23
+376,Denver Nuggets,2013,36,46,22,19,14,27
+377,New Orleans Pelicans,2013,34,48,22,19,12,29
+378,Cleveland Cavaliers,2013,33,49,19,22,14,27
+379,Detroit Pistons,2013,29,53,17,24,12,29
+380,Sacramento Kings,2013,28,54,17,24,11,30
+381,Los Angeles Lakers,2013,27,55,14,27,13,28
+382,Boston Celtics,2013,25,57,16,25,9,32
+383,Utah Jazz,2013,25,57,16,25,9,32
+384,Orlando Magic,2013,23,59,19,22,4,37
+385,Philadelphia 76ers,2013,19,63,10,31,9,32
+386,Milwaukee Bucks,2013,15,67,10,31,5,36
+387,Golden State Warriors,2014,67,15,39,2,28,13
+388,Atlanta Hawks,2014,60,22,35,6,25,16
+389,Houston Rockets,2014,56,26,30,11,26,15
+390,Los Angeles Clippers,2014,56,26,30,11,26,15
+391,Memphis Grizzlies,2014,55,27,31,10,24,17
+392,San Antonio Spurs,2014,55,27,33,8,22,19
+393,Cleveland Cavaliers,2014,53,29,31,10,22,19
+394,Portland Trail Blazers,2014,51,31,32,9,19,22
+395,Chicago Bulls,2014,50,32,27,14,23,18
+396,Dallas Mavericks,2014,50,32,27,14,23,18
+397,Toronto Raptors,2014,49,33,27,14,22,19
+398,Washington Wizards,2014,46,36,29,12,17,24
+399,New Orleans Pelicans,2014,45,37,28,13,17,24
+400,Oklahoma City Thunder,2014,45,37,29,12,16,25
+401,Milwaukee Bucks,2014,41,41,23,18,18,23
+402,Boston Celtics,2014,40,42,21,20,19,22
+403,Phoenix Suns,2014,39,43,22,19,17,24
+404,Brooklyn Nets,2014,38,44,19,22,19,22
+405,Indiana Pacers,2014,38,44,23,18,15,26
+406,Utah Jazz,2014,38,44,21,20,17,24
+407,Miami Heat,2014,37,45,20,21,17,24
+408,Charlotte Hornets,2014,33,49,19,22,14,27
+409,Detroit Pistons,2014,32,50,18,23,14,27
+410,Denver Nuggets,2014,30,52,19,22,11,30
+411,Sacramento Kings,2014,29,53,18,23,11,30
+412,Orlando Magic,2014,25,57,13,28,12,29
+413,Los Angeles Lakers,2014,21,61,12,29,9,32
+414,Philadelphia 76ers,2014,18,64,12,29,6,35
+415,New York Knicks,2014,17,65,10,31,7,34
+416,Minnesota Timberwolves,2014,16,66,9,32,7,34
+417,Golden State Warriors,2015,73,9,39,2,34,7
+418,San Antonio Spurs,2015,67,15,40,1,27,14
+419,Cleveland Cavaliers,2015,57,25,33,8,24,17
+420,Toronto Raptors,2015,56,26,32,9,24,17
+421,Oklahoma City Thunder,2015,55,27,32,9,23,18
+422,Los Angeles Clippers,2015,53,29,29,12,24,17
+423,Atlanta Hawks,2015,48,34,27,14,21,20
+424,Boston Celtics,2015,48,34,28,13,20,21
+425,Charlotte Hornets,2015,48,34,30,11,18,23
+426,Miami Heat,2015,48,34,28,13,20,21
+427,Indiana Pacers,2015,45,37,26,15,19,22
+428,Detroit Pistons,2015,44,38,26,15,18,23
+429,Portland Trail Blazers,2015,44,38,28,13,16,25
+430,Dallas Mavericks,2015,42,40,23,18,19,22
+431,Memphis Grizzlies,2015,42,40,26,15,16,25
+432,Chicago Bulls,2015,42,40,26,15,16,25
+433,Houston Rockets,2015,41,41,23,18,18,23
+434,Washington Wizards,2015,41,41,22,19,19,22
+435,Utah Jazz,2015,40,42,24,17,16,25
+436,Orlando Magic,2015,35,47,23,18,12,29
+437,Denver Nuggets,2015,33,49,18,23,15,26
+438,Milwaukee Bucks,2015,33,49,23,18,10,31
+439,Sacramento Kings,2015,33,49,18,23,15,26
+440,New York Knicks,2015,32,50,18,23,14,27
+441,New Orleans Pelicans,2015,30,52,21,20,9,32
+442,Minnesota Timberwolves,2015,29,53,14,27,15,26
+443,Phoenix Suns,2015,23,59,14,27,9,32
+444,Brooklyn Nets,2015,21,61,14,27,7,34
+445,Los Angeles Lakers,2015,17,65,12,29,5,36
+446,Philadelphia 76ers,2015,10,72,7,34,3,38
+447,Golden State Warriors,2016,67,15,36,5,31,10
+448,San Antonio Spurs,2016,61,21,31,10,30,11
+449,Houston Rockets,2016,55,27,30,11,25,16
+450,Boston Celtics,2016,53,29,30,11,23,18
+451,Cleveland Cavaliers,2016,51,31,31,10,20,21
+452,Los Angeles Clippers,2016,51,31,29,12,22,19
+453,Toronto Raptors,2016,51,31,28,13,23,18
+454,Utah Jazz,2016,51,31,29,12,22,19
+455,Washington Wizards,2016,49,33,30,11,19,22
+456,Oklahoma City Thunder,2016,47,35,28,13,19,22
+457,Atlanta Hawks,2016,43,39,23,18,20,21
+458,Memphis Grizzlies,2016,43,39,24,17,19,22
+459,Indiana Pacers,2016,42,40,29,12,13,28
+460,Milwaukee Bucks,2016,42,40,23,18,19,22
+461,Chicago Bulls,2016,41,41,25,16,16,25
+462,Portland Trail Blazers,2016,41,41,25,16,16,25
+463,Miami Heat,2016,41,41,23,18,18,23
+464,Denver Nuggets,2016,40,42,22,19,18,23
+465,Detroit Pistons,2016,37,45,24,17,13,28
+466,Charlotte Hornets,2016,36,46,22,19,14,27
+467,New Orleans Pelicans,2016,34,48,21,20,13,28
+468,Dallas Mavericks,2016,33,49,21,20,12,29
+469,Sacramento Kings,2016,32,50,17,24,15,26
+470,Minnesota Timberwolves,2016,31,51,20,21,11,30
+471,New York Knicks,2016,31,51,19,22,12,29
+472,Orlando Magic,2016,29,53,16,25,13,28
+473,Philadelphia 76ers,2016,28,54,17,24,11,30
+474,Los Angeles Lakers,2016,26,56,17,24,9,32
+475,Phoenix Suns,2016,24,58,15,26,9,32
+476,Brooklyn Nets,2016,20,62,13,28,7,34
+477,Houston Rockets,2017,65,17,34,7,31,10
+478,Toronto Raptors,2017,59,23,34,7,25,16
+479,Golden State Warriors,2017,58,24,29,12,29,12
+480,Boston Celtics,2017,55,27,27,14,28,13
+481,Philadelphia 76ers,2017,52,30,30,11,22,19
+482,Cleveland Cavaliers,2017,50,32,29,12,21,20
+483,Portland Trail Blazers,2017,49,33,28,13,21,20
+484,Indiana Pacers,2017,48,34,27,14,21,20
+485,New Orleans Pelicans,2017,48,34,24,17,24,17
+486,Oklahoma City Thunder,2017,48,34,27,14,21,20
+487,Utah Jazz,2017,48,34,28,13,20,21
+488,Minnesota Timberwolves,2017,47,35,30,11,17,24
+489,San Antonio Spurs,2017,47,35,33,8,14,27
+490,Denver Nuggets,2017,46,36,31,10,15,26
+491,Miami Heat,2017,44,38,26,15,18,23
+492,Milwaukee Bucks,2017,44,38,25,16,19,22
+493,Washington Wizards,2017,43,39,23,18,20,21
+494,Los Angeles Clippers,2017,42,40,22,19,20,21
+495,Detroit Pistons,2017,39,43,25,16,14,27
+496,Charlotte Hornets,2017,36,46,21,20,15,26
+497,Los Angeles Lakers,2017,35,47,20,21,15,26
+498,New York Knicks,2017,29,53,19,22,10,31
+499,Brooklyn Nets,2017,28,54,15,26,13,28
+500,Chicago Bulls,2017,27,55,17,24,10,31
+501,Sacramento Kings,2017,27,55,14,27,13,28
+502,Orlando Magic,2017,25,57,17,24,8,33
+503,Atlanta Hawks,2017,24,58,16,25,8,33
+504,Dallas Mavericks,2017,24,58,15,26,9,32
+505,Memphis Grizzlies,2017,22,60,16,25,6,35
+506,Phoenix Suns,2017,21,61,10,31,11,30
+507,Milwaukee Bucks,2018,60,22,33,8,27,14
+508,Toronto Raptors,2018,58,24,32,9,26,15
+509,Golden State Warriors,2018,57,25,30,11,27,14
+510,Denver Nuggets,2018,54,28,34,7,20,21
+511,Houston Rockets,2018,53,29,31,10,22,19
+512,Portland Trail Blazers,2018,53,29,32,9,21,20
+513,Philadelphia 76ers,2018,51,31,31,10,20,21
+514,Utah Jazz,2018,50,32,29,12,21,20
+515,Boston Celtics,2018,49,33,28,13,21,20
+516,Oklahoma City Thunder,2018,49,33,27,14,22,19
+517,Indiana Pacers,2018,48,34,29,12,19,22
+518,Los Angeles Clippers,2018,48,34,26,15,22,19
+519,San Antonio Spurs,2018,48,34,32,9,16,25
+520,Brooklyn Nets,2018,42,40,23,18,19,22
+521,Orlando Magic,2018,42,40,25,16,17,24
+522,Detroit Pistons,2018,41,41,26,15,15,26
+523,Charlotte Hornets,2018,39,43,25,16,14,27
+524,Miami Heat,2018,39,43,19,22,20,21
+525,Sacramento Kings,2018,39,43,24,17,15,26
+526,Los Angeles Lakers,2018,37,45,22,19,15,26
+527,Minnesota Timberwolves,2018,36,46,25,16,11,30
+528,Dallas Mavericks,2018,33,49,24,17,9,32
+529,Memphis Grizzlies,2018,33,49,21,20,12,29
+530,New Orleans Pelicans,2018,33,49,19,22,14,27
+531,Washington Wizards,2018,32,50,22,19,10,31
+532,Atlanta Hawks,2018,29,53,17,24,12,29
+533,Chicago Bulls,2018,22,60,9,32,13,28
+534,Cleveland Cavaliers,2018,19,63,13,28,6,35
+535,Phoenix Suns,2018,19,63,12,29,7,34
+536,New York Knicks,2018,17,65,9,32,8,33
+537,Milwaukee Bucks,2019,56,17,30,5,26,12
+538,Toronto Raptors,2019,53,19,26,10,27,9
+539,Los Angeles Lakers,2019,52,19,25,10,27,9
+540,Los Angeles Clippers,2019,49,23,27,9,22,14
+541,Boston Celtics,2019,48,24,26,10,22,14
+542,Denver Nuggets,2019,46,27,26,11,20,16
+543,Indiana Pacers,2019,45,28,25,11,20,17
+544,Houston Rockets,2019,44,28,24,12,20,16
+545,Miami Heat,2019,44,29,29,7,15,22
+546,Oklahoma City Thunder,2019,44,28,23,14,21,14
+547,Utah Jazz,2019,44,28,23,12,21,16
+548,Dallas Mavericks,2019,43,32,20,18,23,14
+549,Philadelphia 76ers,2019,43,30,31,4,12,26
+550,Brooklyn Nets,2019,35,37,20,16,15,21
+551,Portland Trail Blazers,2019,35,39,21,15,14,24
+552,Memphis Grizzlies,2019,34,39,20,17,14,22
+553,Phoenix Suns,2019,34,39,17,22,17,17
+554,Orlando Magic,2019,33,40,18,17,15,23
+555,San Antonio Spurs,2019,32,39,19,15,13,24
+556,Sacramento Kings,2019,31,41,16,19,15,22
+557,New Orleans Pelicans,2019,30,42,15,21,15,21
+558,Washington Wizards,2019,25,47,16,20,9,27
+559,Charlotte Hornets,2019,23,42,10,21,13,21
+560,Chicago Bulls,2019,22,43,14,20,8,23
+561,New York Knicks,2019,21,45,11,22,10,23
+562,Atlanta Hawks,2019,20,47,14,20,6,27
+563,Detroit Pistons,2019,20,46,11,22,9,24
+564,Cleveland Cavaliers,2019,19,46,11,25,8,21
+565,Minnesota Timberwolves,2019,19,45,8,24,11,21
+566,Golden State Warriors,2019,15,50,8,26,7,24
+567,Utah Jazz,2020,52,20,31,5,21,15
+568,Phoenix Suns,2020,51,21,27,9,24,12
+569,Philadelphia 76ers,2020,49,23,29,7,20,16
+570,Brooklyn Nets,2020,48,24,28,8,20,16
+571,Denver Nuggets,2020,47,25,25,11,22,14
+572,Los Angeles Clippers,2020,47,25,26,10,21,15
+573,Milwaukee Bucks,2020,46,26,26,10,20,16
+574,Dallas Mavericks,2020,42,30,21,15,21,15
+575,Los Angeles Lakers,2020,42,30,21,15,21,15
+576,Portland Trail Blazers,2020,42,30,20,16,22,14
+577,Atlanta Hawks,2020,41,31,25,11,16,20
+578,New York Knicks,2020,41,31,25,11,16,20
+579,Miami Heat,2020,40,32,21,15,19,17
+580,Golden State Warriors,2020,39,33,25,11,14,22
+581,Memphis Grizzlies,2020,38,34,18,18,20,16
+582,Boston Celtics,2020,36,36,21,15,15,21
+583,Washington Wizards,2020,34,38,19,17,15,21
+584,Indiana Pacers,2020,34,38,13,23,21,15
+585,Charlotte Hornets,2020,33,39,18,18,15,21
+586,San Antonio Spurs,2020,33,39,14,22,19,17
+587,Chicago Bulls,2020,31,41,15,21,16,20
+588,New Orleans Pelicans,2020,31,41,18,18,13,23
+589,Sacramento Kings,2020,31,41,16,20,15,21
+590,Toronto Raptors,2020,27,45,16,20,11,25
+591,Minnesota Timberwolves,2020,23,49,13,23,10,26
+592,Cleveland Cavaliers,2020,22,50,13,23,9,27
+593,Oklahoma City Thunder,2020,22,50,10,26,12,24
+594,Orlando Magic,2020,21,51,11,25,10,26
+595,Detroit Pistons,2020,20,52,13,23,7,29
+596,Houston Rockets,2020,17,55,9,27,8,28
+597,Phoenix Suns,2021,64,18,32,9,32,9
+598,Memphis Grizzlies,2021,56,26,30,11,26,15
+599,Golden State Warriors,2021,53,29,31,10,22,19
+600,Miami Heat,2021,53,29,29,12,24,17
+601,Dallas Mavericks,2021,52,30,29,12,23,18
+602,Boston Celtics,2021,51,31,28,13,23,18
+603,Milwaukee Bucks,2021,51,31,27,14,24,17
+604,Philadelphia 76ers,2021,51,31,24,17,27,14
+605,Utah Jazz,2021,49,33,29,12,20,21
+606,Denver Nuggets,2021,48,34,23,18,25,16
+607,Toronto Raptors,2021,48,34,24,17,24,17
+608,Chicago Bulls,2021,46,36,27,14,19,22
+609,Minnesota Timberwolves,2021,46,36,26,15,20,21
+610,Brooklyn Nets,2021,44,38,20,21,24,17
+611,Cleveland Cavaliers,2021,44,38,25,16,19,22
+612,Atlanta Hawks,2021,43,39,27,14,16,25
+613,Charlotte Hornets,2021,43,39,22,19,21,20
+614,Los Angeles Clippers,2021,42,40,25,16,17,24
+615,New York Knicks,2021,37,45,17,24,20,21
+616,New Orleans Pelicans,2021,36,46,19,22,17,24
+617,Washington Wizards,2021,35,47,21,20,14,27
+618,San Antonio Spurs,2021,34,48,16,25,18,23
+619,Los Angeles Lakers,2021,33,49,21,20,12,29
+620,Sacramento Kings,2021,30,52,16,25,14,27
+621,Portland Trail Blazers,2021,27,55,17,24,10,31
+622,Indiana Pacers,2021,25,57,16,25,9,32
+623,Oklahoma City Thunder,2021,24,58,12,29,12,29
+624,Detroit Pistons,2021,23,59,13,28,10,31
+625,Orlando Magic,2021,22,60,12,29,10,31
+626,Houston Rockets,2021,20,62,11,30,9,32
+627,Milwaukee Bucks,2022,58,24,32,9,26,15
+628,Boston Celtics,2022,57,25,32,9,25,16
+629,Philadelphia 76ers,2022,54,28,29,12,25,16
+630,Denver Nuggets,2022,53,29,34,7,19,22
+631,Cleveland Cavaliers,2022,51,31,31,10,20,21
+632,Memphis Grizzlies,2022,51,31,35,6,16,25
+633,Sacramento Kings,2022,48,34,23,18,25,16
+634,New York Knicks,2022,47,35,23,18,24,17
+635,Brooklyn Nets,2022,45,37,23,18,22,19
+636,Phoenix Suns,2022,45,37,28,13,17,24
+637,Golden State Warriors,2022,44,38,33,8,11,30
+638,Los Angeles Clippers,2022,44,38,23,18,21,20
+639,Miami Heat,2022,44,38,27,14,17,24
+640,Los Angeles Lakers,2022,43,39,23,18,20,21
+641,Minnesota Timberwolves,2022,42,40,22,19,20,21
+642,New Orleans Pelicans,2022,42,40,27,14,15,26
+643,Atlanta Hawks,2022,41,41,24,17,17,24
+644,Toronto Raptors,2022,41,41,27,14,14,27
+645,Chicago Bulls,2022,40,42,22,19,18,23
+646,Oklahoma City Thunder,2022,40,42,24,17,16,25
+647,Dallas Mavericks,2022,38,44,23,18,15,26
+648,Utah Jazz,2022,37,45,23,18,14,27
+649,Indiana Pacers,2022,35,47,20,21,15,26
+650,Washington Wizards,2022,35,47,19,22,16,25
+651,Orlando Magic,2022,34,48,20,21,14,27
+652,Portland Trail Blazers,2022,33,49,17,24,16,25
+653,Charlotte Hornets,2022,27,55,13,28,14,27
+654,Houston Rockets,2022,22,60,14,27,8,33
+655,San Antonio Spurs,2022,22,60,14,27,8,33
+656,Detroit Pistons,2022,17,65,9,32,8,33
+657,Boston Celtics,2023,64,18,37,4,27,14
+658,Denver Nuggets,2023,57,25,33,8,24,17
+659,Oklahoma City Thunder,2023,57,25,33,8,24,17
+660,Minnesota Timberwolves,2023,56,26,30,11,26,15
+661,Los Angeles Clippers,2023,51,31,25,16,26,15
+662,Dallas Mavericks,2023,50,32,25,16,25,16
+663,New York Knicks,2023,50,32,27,14,23,18
+664,Milwaukee Bucks,2023,49,33,31,11,18,22
+665,New Orleans Pelicans,2023,49,33,21,19,28,14
+666,Phoenix Suns,2023,49,33,25,16,24,17
+667,Cleveland Cavaliers,2023,48,34,26,15,22,19
+668,Indiana Pacers,2023,47,35,26,15,21,20
+669,Los Angeles Lakers,2023,47,35,28,14,19,21
+670,Orlando Magic,2023,47,35,29,12,18,23
+671,Philadelphia 76ers,2023,47,35,25,16,22,19
+672,Miami Heat,2023,46,36,22,19,24,17
+673,Golden State Warriors,2023,46,36,21,20,25,16
+674,Sacramento Kings,2023,46,36,24,17,22,19
+675,Houston Rockets,2023,41,41,27,14,14,27
+676,Chicago Bulls,2023,39,43,20,21,19,22
+677,Atlanta Hawks,2023,36,46,21,20,15,26
+678,Brooklyn Nets,2023,32,50,20,21,12,29
+679,Utah Jazz,2023,31,51,21,20,10,31
+680,Memphis Grizzlies,2023,27,55,9,32,18,23
+681,Toronto Raptors,2023,25,57,14,27,11,30
+682,San Antonio Spurs,2023,22,60,12,29,10,31
+683,Charlotte Hornets,2023,21,61,11,30,10,31
+684,Portland Trail Blazers,2023,21,61,11,30,10,31
+685,Washington Wizards,2023,15,67,7,34,8,33
+686,Detroit Pistons,2023,14,68,7,33,7,35
