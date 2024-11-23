@@ -3,12 +3,12 @@
 1,Los Angeles Lakers,2001,58,24,34,7,24,17
 2,San Antonio Spurs,2001,58,24,32,9,26,15
 3,Dallas Mavericks,2001,57,25,30,11,27,14
-4,New Jersey Nets,2001,52,30,33,8,19,22
+4,Brooklyn Nets,2001,52,30,33,8,19,22
 5,Detroit Pistons,2001,50,32,26,15,24,17
 6,Minnesota Timberwolves,2001,50,32,29,12,21,20
 7,Boston Celtics,2001,49,33,27,14,22,19
 8,Portland Trail Blazers,2001,49,33,30,11,19,22
-9,Seattle SuperSonics,2001,45,37,26,15,19,22
+9,Oklahoma City Thunder,2001,45,37,26,15,19,22
 10,Charlotte Hornets,2001,44,38,21,20,23,18
 11,Orlando Magic,2001,44,38,27,14,17,24
 12,Utah Jazz,2001,44,38,25,16,19,22
@@ -35,17 +35,17 @@
 33,Detroit Pistons,2002,50,32,30,11,20,21
 34,Los Angeles Lakers,2002,50,32,31,10,19,22
 35,Portland Trail Blazers,2002,50,32,27,14,23,18
-36,New Jersey Nets,2002,49,33,33,8,16,25
+36,Brooklyn Nets,2002,49,33,33,8,16,25
 37,Indiana Pacers,2002,48,34,32,9,16,25
 38,Philadelphia 76ers,2002,48,34,25,16,23,18
-39,New Orleans Hornets,2002,47,35,29,12,18,23
+39,New Orleans Pelicans,2002,47,35,29,12,18,23
 40,Utah Jazz,2002,47,35,29,12,18,23
 41,Boston Celtics,2002,44,38,25,16,19,22
 42,Phoenix Suns,2002,44,38,30,11,14,27
 43,Houston Rockets,2002,43,39,28,13,15,26
 44,Milwaukee Bucks,2002,42,40,25,16,17,24
 45,Orlando Magic,2002,42,40,26,15,16,25
-46,Seattle SuperSonics,2002,40,42,25,16,15,26
+46,Oklahoma City Thunder,2002,40,42,25,16,15,26
 47,Golden State Warriors,2002,38,44,24,17,14,27
 48,New York Knicks,2002,37,45,24,17,13,28
 49,Washington Wizards,2002,37,45,23,18,14,27
@@ -65,17 +65,17 @@
 63,Detroit Pistons,2003,54,28,31,10,23,18
 64,Dallas Mavericks,2003,52,30,36,5,16,25
 65,Memphis Grizzlies,2003,50,32,31,10,19,22
-66,New Jersey Nets,2003,47,35,28,13,19,22
+66,Brooklyn Nets,2003,47,35,28,13,19,22
 67,Houston Rockets,2003,45,37,27,14,18,23
 68,Denver Nuggets,2003,43,39,29,12,14,27
 69,Miami Heat,2003,42,40,29,12,13,28
 70,Utah Jazz,2003,42,40,28,13,14,27
 71,Milwaukee Bucks,2003,41,41,27,14,14,27
-72,New Orleans Hornets,2003,41,41,25,16,16,25
+72,New Orleans Pelicans,2003,41,41,25,16,16,25
 73,Portland Trail Blazers,2003,41,41,25,16,16,25
 74,New York Knicks,2003,39,43,23,18,16,25
 75,Golden State Warriors,2003,37,45,27,14,10,31
-76,Seattle SuperSonics,2003,37,45,21,20,16,25
+76,Oklahoma City Thunder,2003,37,45,21,20,16,25
 77,Boston Celtics,2003,36,46,19,22,17,24
 78,Cleveland Cavaliers,2003,35,47,23,18,12,29
 79,Philadelphia 76ers,2003,33,49,21,20,12,29
@@ -91,7 +91,7 @@
 89,San Antonio Spurs,2004,59,23,38,3,21,20
 90,Dallas Mavericks,2004,58,24,29,12,29,12
 91,Detroit Pistons,2004,54,28,32,9,22,19
-92,Seattle SuperSonics,2004,52,30,26,15,26,15
+92,Oklahoma City Thunder,2004,52,30,26,15,26,15
 93,Houston Rockets,2004,51,31,26,15,25,16
 94,Sacramento Kings,2004,50,32,30,11,20,21
 95,Denver Nuggets,2004,49,33,31,10,18,23
@@ -102,7 +102,7 @@
 100,Indiana Pacers,2004,44,38,25,16,19,22
 101,Minnesota Timberwolves,2004,44,38,24,17,20,21
 102,Philadelphia 76ers,2004,43,39,25,16,18,23
-103,New Jersey Nets,2004,42,40,24,17,18,23
+103,Brooklyn Nets,2004,42,40,24,17,18,23
 104,Cleveland Cavaliers,2004,42,40,29,12,13,28
 105,Los Angeles Clippers,2004,37,45,27,14,10,31
 106,Orlando Magic,2004,36,46,24,17,12,29
@@ -113,8 +113,8 @@
 111,Milwaukee Bucks,2004,30,52,23,18,7,34
 112,Portland Trail Blazers,2004,27,55,18,23,9,32
 113,Utah Jazz,2004,26,56,18,23,8,33
-114,Charlotte Bobcats,2004,18,64,14,27,4,37
-115,New Orleans Hornets,2004,18,64,11,30,7,34
+114,Charlotte Hornets,2004,18,64,14,27,4,37
+115,New Orleans Pelicans,2004,18,64,11,30,7,34
 116,Atlanta Hawks,2004,13,69,9,32,4,37
 117,Detroit Pistons,2005,64,18,37,4,27,14
 118,San Antonio Spurs,2005,63,19,34,7,29,12
@@ -123,7 +123,7 @@
 121,Miami Heat,2005,52,30,31,10,21,20
 122,Cleveland Cavaliers,2005,50,32,31,10,19,22
 123,Memphis Grizzlies,2005,49,33,30,11,19,22
-124,New Jersey Nets,2005,49,33,29,12,20,21
+124,Brooklyn Nets,2005,49,33,29,12,20,21
 125,Los Angeles Clippers,2005,47,35,27,14,20,21
 126,Los Angeles Lakers,2005,45,37,27,14,18,23
 127,Denver Nuggets,2005,44,38,26,15,18,23
@@ -133,17 +133,17 @@
 131,Indiana Pacers,2005,41,41,27,14,14,27
 132,Utah Jazz,2005,41,41,22,19,19,22
 133,Milwaukee Bucks,2005,40,42,25,16,15,26
-134,New Orleans/Oklahoma City Hornets,2005,38,44,24,17,14,27
+134,New Orleans Pelicans,2005,38,44,24,17,14,27
 135,Philadelphia 76ers,2005,38,44,23,18,15,26
 136,Orlando Magic,2005,36,46,26,15,10,31
-137,Seattle SuperSonics,2005,35,47,22,19,13,28
+137,Oklahoma City Thunder,2005,35,47,22,19,13,28
 138,Golden State Warriors,2005,34,48,21,20,13,28
 139,Houston Rockets,2005,34,48,15,26,19,22
 140,Boston Celtics,2005,33,49,21,20,12,29
 141,Minnesota Timberwolves,2005,33,49,24,17,9,32
 142,Toronto Raptors,2005,27,55,15,26,12,29
 143,Atlanta Hawks,2005,26,56,18,23,8,33
-144,Charlotte Bobcats,2005,26,56,17,24,9,32
+144,Charlotte Hornets,2005,26,56,17,24,9,32
 145,New York Knicks,2005,23,59,15,26,8,33
 146,Portland Trail Blazers,2005,21,61,15,26,6,35
 147,Dallas Mavericks,2006,67,15,36,5,31,10
@@ -159,19 +159,19 @@
 157,Miami Heat,2006,44,38,27,14,17,24
 158,Golden State Warriors,2006,42,40,30,11,12,29
 159,Los Angeles Lakers,2006,42,40,25,16,17,24
-160,New Jersey Nets,2006,41,41,24,17,17,24
+160,Brooklyn Nets,2006,41,41,24,17,17,24
 161,Washington Wizards,2006,41,41,26,15,15,26
 162,Orlando Magic,2006,40,42,25,16,15,26
 163,Los Angeles Clippers,2006,40,42,25,16,15,26
-164,New Orleans/Oklahoma City Hornets,2006,39,43,24,17,15,26
+164,New Orleans Pelicans,2006,39,43,24,17,15,26
 165,Indiana Pacers,2006,35,47,22,19,13,28
 166,Philadelphia 76ers,2006,35,47,21,20,14,27
-167,Charlotte Bobcats,2006,33,49,20,21,13,28
+167,Charlotte Hornets,2006,33,49,20,21,13,28
 168,New York Knicks,2006,33,49,19,22,14,27
 169,Sacramento Kings,2006,33,49,20,21,13,28
 170,Minnesota Timberwolves,2006,32,50,20,21,12,29
 171,Portland Trail Blazers,2006,32,50,18,23,14,27
-172,Seattle SuperSonics,2006,31,51,20,21,11,30
+172,Oklahoma City Thunder,2006,31,51,20,21,11,30
 173,Atlanta Hawks,2006,30,52,18,23,12,29
 174,Milwaukee Bucks,2006,28,54,18,23,10,31
 175,Boston Celtics,2006,24,58,12,29,12,29
@@ -179,7 +179,7 @@
 177,Boston Celtics,2007,66,16,35,6,31,10
 178,Detroit Pistons,2007,59,23,34,7,25,16
 179,Los Angeles Lakers,2007,57,25,30,11,27,14
-180,New Orleans Hornets,2007,56,26,30,11,26,15
+180,New Orleans Pelicans,2007,56,26,30,11,26,15
 181,San Antonio Spurs,2007,56,26,34,7,22,19
 182,Houston Rockets,2007,55,27,31,10,24,17
 183,Phoenix Suns,2007,55,27,30,11,25,16
@@ -196,15 +196,15 @@
 194,Sacramento Kings,2007,38,44,26,15,12,29
 195,Atlanta Hawks,2007,37,45,25,16,12,29
 196,Indiana Pacers,2007,36,46,21,20,15,26
-197,New Jersey Nets,2007,34,48,21,20,13,28
+197,Brooklyn Nets,2007,34,48,21,20,13,28
 198,Chicago Bulls,2007,33,49,20,21,13,28
-199,Charlotte Bobcats,2007,32,50,21,20,11,30
+199,Charlotte Hornets,2007,32,50,21,20,11,30
 200,Milwaukee Bucks,2007,26,56,19,22,7,34
 201,Los Angeles Clippers,2007,23,59,13,28,10,31
 202,New York Knicks,2007,23,59,15,26,8,33
 203,Memphis Grizzlies,2007,22,60,14,27,8,33
 204,Minnesota Timberwolves,2007,22,60,15,26,7,34
-205,Seattle SuperSonics,2007,20,62,13,28,7,34
+205,Oklahoma City Thunder,2007,20,62,13,28,7,34
 206,Miami Heat,2007,15,67,9,32,6,35
 207,Cleveland Cavaliers,2008,66,16,39,2,27,14
 208,Los Angeles Lakers,2008,65,17,36,5,29,12
@@ -215,7 +215,7 @@
 213,San Antonio Spurs,2008,54,28,28,13,26,15
 214,Houston Rockets,2008,53,29,33,8,20,21
 215,Dallas Mavericks,2008,50,32,32,9,18,23
-216,New Orleans Hornets,2008,49,33,28,13,21,20
+216,New Orleans Pelicans,2008,49,33,28,13,21,20
 217,Utah Jazz,2008,48,34,33,8,15,26
 218,Atlanta Hawks,2008,47,35,31,10,16,25
 219,Phoenix Suns,2008,46,36,28,13,18,23
@@ -224,9 +224,9 @@
 222,Philadelphia 76ers,2008,41,41,24,17,17,24
 223,Detroit Pistons,2008,39,43,21,20,18,23
 224,Indiana Pacers,2008,36,46,25,16,11,30
-225,Charlotte Bobcats,2008,35,47,23,18,12,29
+225,Charlotte Hornets,2008,35,47,23,18,12,29
 226,Milwaukee Bucks,2008,34,48,22,19,12,29
-227,New Jersey Nets,2008,34,48,19,22,15,26
+227,Brooklyn Nets,2008,34,48,19,22,15,26
 228,Toronto Raptors,2008,33,49,18,23,15,26
 229,New York Knicks,2008,32,50,20,21,12,29
 230,Golden State Warriors,2008,29,53,21,20,8,33
@@ -250,12 +250,12 @@
 248,San Antonio Spurs,2009,50,32,29,12,21,20
 249,Miami Heat,2009,47,35,24,17,23,18
 250,Milwaukee Bucks,2009,46,36,28,13,18,23
-251,Charlotte Bobcats,2009,44,38,31,10,13,28
+251,Charlotte Hornets,2009,44,38,31,10,13,28
 252,Houston Rockets,2009,42,40,23,18,19,22
 253,Chicago Bulls,2009,41,41,24,17,17,24
 254,Memphis Grizzlies,2009,40,42,23,18,17,24
 255,Toronto Raptors,2009,40,42,25,16,15,26
-256,New Orleans Hornets,2009,37,45,24,17,13,28
+256,New Orleans Pelicans,2009,37,45,24,17,13,28
 257,Indiana Pacers,2009,32,50,23,18,9,32
 258,Los Angeles Clippers,2009,29,53,21,20,8,33
 259,New York Knicks,2009,29,53,18,23,11,30
@@ -265,7 +265,7 @@
 263,Washington Wizards,2009,26,56,15,26,11,30
 264,Sacramento Kings,2009,25,57,18,23,7,34
 265,Minnesota Timberwolves,2009,15,67,10,31,5,36
-266,New Jersey Nets,2009,12,70,8,33,4,37
+266,Brooklyn Nets,2009,12,70,8,33,4,37
 267,Chicago Bulls,2010,62,20,36,5,26,15
 268,San Antonio Spurs,2010,61,21,36,5,25,16
 269,Miami Heat,2010,58,24,30,11,28,13
@@ -277,7 +277,7 @@
 275,Denver Nuggets,2010,50,32,33,8,17,24
 276,Portland Trail Blazers,2010,48,34,30,11,18,23
 277,Memphis Grizzlies,2010,46,36,30,11,16,25
-278,New Orleans Hornets,2010,46,36,28,13,18,23
+278,New Orleans Pelicans,2010,46,36,28,13,18,23
 279,Atlanta Hawks,2010,44,38,24,17,20,21
 280,Houston Rockets,2010,43,39,25,16,18,23
 281,New York Knicks,2010,42,40,23,18,19,22
@@ -287,10 +287,10 @@
 285,Indiana Pacers,2010,37,45,24,17,13,28
 286,Golden State Warriors,2010,36,46,26,15,10,31
 287,Milwaukee Bucks,2010,35,47,22,19,13,28
-288,Charlotte Bobcats,2010,34,48,21,20,13,28
+288,Charlotte Hornets,2010,34,48,21,20,13,28
 289,Los Angeles Clippers,2010,32,50,23,18,9,32
 290,Detroit Pistons,2010,30,52,21,20,9,32
-291,New Jersey Nets,2010,24,58,19,22,5,36
+291,Brooklyn Nets,2010,24,58,19,22,5,36
 292,Sacramento Kings,2010,24,58,11,30,13,28
 293,Washington Wizards,2010,23,59,20,21,3,38
 294,Toronto Raptors,2010,22,60,16,25,6,35
@@ -320,12 +320,12 @@
 318,Detroit Pistons,2011,25,41,18,15,7,26
 319,Golden State Warriors,2011,23,43,12,21,11,22
 320,Toronto Raptors,2011,23,43,13,20,10,23
-321,New Jersey Nets,2011,22,44,9,24,13,20
+321,Brooklyn Nets,2011,22,44,9,24,13,20
 322,Sacramento Kings,2011,22,44,16,17,6,27
 323,Cleveland Cavaliers,2011,21,45,11,22,10,23
-324,New Orleans Hornets,2011,21,45,11,22,10,23
+324,New Orleans Pelicans,2011,21,45,11,22,10,23
 325,Washington Wizards,2011,20,46,11,22,9,24
-326,Charlotte Bobcats,2011,7,59,4,29,3,30
+326,Charlotte Hornets,2011,7,59,4,29,3,30
 327,Miami Heat,2012,66,16,37,4,29,12
 328,Oklahoma City Thunder,2012,60,22,34,7,26,15
 329,San Antonio Spurs,2012,58,24,35,6,23,18
@@ -351,10 +351,10 @@
 349,Detroit Pistons,2012,29,53,18,23,11,30
 350,Washington Wizards,2012,29,53,22,19,7,34
 351,Sacramento Kings,2012,28,54,20,21,8,33
-352,New Orleans Hornets,2012,27,55,16,25,11,30
+352,New Orleans Pelicans,2012,27,55,16,25,11,30
 353,Phoenix Suns,2012,25,57,17,24,8,33
 354,Cleveland Cavaliers,2012,24,58,14,27,10,31
-355,Charlotte Bobcats,2012,21,61,15,26,6,35
+355,Charlotte Hornets,2012,21,61,15,26,6,35
 356,Orlando Magic,2012,20,62,12,29,8,33
 357,San Antonio Spurs,2013,62,20,32,9,30,11
 358,Oklahoma City Thunder,2013,59,23,34,7,25,16
@@ -371,7 +371,7 @@
 369,Phoenix Suns,2013,48,34,26,15,22,19
 370,Brooklyn Nets,2013,44,38,28,13,16,25
 371,Washington Wizards,2013,44,38,22,19,22,19
-372,Charlotte Bobcats,2013,43,39,25,16,18,23
+372,Charlotte Hornets,2013,43,39,25,16,18,23
 373,Minnesota Timberwolves,2013,40,42,24,17,16,25
 374,Atlanta Hawks,2013,38,44,24,17,14,27
 375,New York Knicks,2013,37,45,19,22,18,23
