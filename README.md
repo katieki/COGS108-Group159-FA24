@@ -1,20 +1,24 @@
-This is your group repo for your final project for COGS108.
+# The Court-Side Effect: Exploring the Relationship Between NBA Team Performance and Game Attendance
 
-This repository is private, and is only visible to the course instructors and your group mates; it is not visible to anyone else.
+## 📖 Project Overview
+This project, developed for **COGS 108 (Data Science in Practice)**, investigates whether an NBA team's performance influences game attendance. \
+Specifically, we analyzed data spanning from the 2001 to 2023 NBA seasons to uncover trends and relationships between team wins, Elo ratings, and attendance.
 
-Template notebooks for each component are provided. Only work on the notebook prior to its due date. After each submission is due, move onto the next notebook (For example, after the proposal is due, start working in the Data Checkpoint notebook). 
+## 🎯 Objectives
+- **Primary Goal**: Analyze the relationship between team performance (measured by wins and Elo ratings) and game attendance.
+- **Secondary Goals**:
+  - Understand the impact of home-court advantage and team consistency on attendance.
+  - Assess trends in attendance over time and anomalies, such as the COVID-19 pandemic's effect.
 
-This repository will be frozen on the final project due date. No further changes can be made after that time.
+## 🛠️ Features
+- Data collection and cleaning for NBA attendance and performance metrics.
+- Utilized **Ordinary Least Squares (OLS) regression** to identify the key predictors of game attendance.
+- Visualization of trends using Python libraries like Matplotlib and Seaborn.
+- Analysis of anomalies, such as attendance drops during COVID-19 pandemic.
 
-Your project proposal and final project will be graded based solely on the corresponding project notebooks in this repository.
+## 📂 Repository Structure
+├── data/                # Contains datasets used for the analysis
+├── checkpoints/           # Jupyter Notebook with exploratory data analysis and modeling
+├── FinalProject_Group159-FA24.ipynb             # Generated visualizations and graphs
+└── README.md       .     # Project description (this file)
 
-Template Jupyter notebooks have been included, with your group number replacing the XXX in the following file names. For each due date, make sure you have a notebook present in this repository by each due date with the following name (where XXX is replaced by your group number):
-
-- `ProjectProposal_groupXXX.ipynb`
-- `DataCheckpoint_groupXXX.ipynb`
-- `EDACheckpoint_groupXXX.ipynb`
-- `FinalProject_groupXXX.ipynb`
-
-This is *your* repo. You are free to manage the repo as you see fit, edit this README, add data files, add scripts, etc. So long as there are the four files above on due dates with the required information, the rest is up to you all. 
-
-Also, you are free and encouraged to share this project after the course and to add it to your portfolio. Just be sure to fork it to your GitHub at the end of the quarter!
