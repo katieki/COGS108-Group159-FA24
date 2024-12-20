@@ -17,8 +17,35 @@ Specifically, we analyzed data spanning from the 2001 to 2023 NBA seasons to unc
 - Analysis of anomalies, such as attendance drops during COVID-19 pandemic.
 
 ## 📂 Repository Structure
-├── data/                # Contains datasets used for the analysis
-├── checkpoints/           # Jupyter Notebook with exploratory data analysis and modeling
-├── FinalProject_Group159-FA24.ipynb             # Generated visualizations and graphs
-└── README.md       .     # Project description (this file)
+-  data/: Contains datasets used for the analysis
+-  checkpoints/: Jupyter Notebooks with exploratory data analysis and intermediate progress
+-  FinalProject_Group159-FA24.ipynb: Finalized Juptyer Notebook with complete analysis and findings
+- README.md: Project description (this file)
 
+## 📊 Methodology
+
+1. **Data Collection**:
+   - Gathered NBA performance and attendance data for the 2001-2023 seasons.
+   - Addressed anomalies, such as the impact of COVID-19 on attendance numbers.
+2. **Data Cleaning & Preprocessing**:
+   - Removed missing values and normalized the key metrics, such as wins and Elo ratings.
+3. **Analysis**:
+   - Performed exploratory data analysis to visualize trends.
+   - Applied OLS regression to evaluate the statistical signifance of performance metrics.
+4. **Key Findings**:
+   - **Elo ratings** were positively linked to game attendance, while the number of wins alone was not statistically significant when controlling for Elo.
+   - Fans are more drawn to consistent, high-performing teams rather than those with occasional wins.
+
+## 🎥 Project Walkthrough
+[![Public Video](https://i3.ytimg.com/vi/ufqs22C-_wo/maxresdefault.jpg)](https://www.youtube.com/watch?v=ufqs22C-_wo)
+
+## 🔭 Future Investigation
+This project provided insights into the relationship between NBA team performance and game attendance, but there are additional areas for future exploration: 
+   1. **Player Level Analysis**: 
+       - Investigate and analyze player statistics and their correlation with fan engagement.
+   2.  **External Factors**: 
+        - Explore the influence of external factors, such as ticket pricing, marketing strategies, or economic conditions on attendance trends.
+        - Assess the impact of regional factors, such as city population, local income levels, and city funding.
+   3. **Advanced Machine Learning Models**: 
+        - Implement more complex models to predict attendance based off of a broader range of variables.
+        - Use time-series analysis to forecast future attendance trends.
